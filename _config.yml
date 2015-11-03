@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#C0C0C0'
+    - '#000000'
+    - '#808080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.374155
+  lightness: 0.23655
+  rhythmicContrast: 0.472128
+  saturation: 0.300247
+cta: {}
+layout_spectrum: 0.011824
+name: 'Graeme Taylor Photography '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.000845
