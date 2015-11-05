@@ -1,6 +1,6 @@
 name: 'Graeme Taylor Photography '
 favicon: null
-layout_spectrum: 0.011824
+layout_spectrum: 0.99719
 typography_spectrum: 0.000845
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#9a9fd9'
   brandStrength: 0.5
   lightness: 0.23655
-  saturation: 0.300247
+  saturation: 0.5625
   rhythmicContrast: 0.472128
 purpose:
   - name: null
