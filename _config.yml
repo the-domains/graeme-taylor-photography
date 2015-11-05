@@ -1,4 +1,19 @@
-analytics: {}
+name: 'Graeme Taylor Photography '
+favicon: null
+layout_spectrum: 0.011824
+typography_spectrum: 0.000845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B8B8'
@@ -8,11 +23,9 @@ color:
     - '#000000'
   brandStrength: 0.374155
   lightness: 0.23655
-  rhythmicContrast: 0.472128
   saturation: 0.300247
-cta: {}
-layout_spectrum: 0.011824
-name: 'Graeme Taylor Photography '
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.000845
+  rhythmicContrast: 0.472128
+purpose:
+  - name: null
+    item: null
+    url: null
