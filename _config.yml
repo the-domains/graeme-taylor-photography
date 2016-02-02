@@ -1,20 +1,4 @@
-name: 'Graeme Taylor Photography '
-favicon: null
-layout_spectrum: 0.99719
-typography_spectrum: 0.22996
-title: Blue Mountains photographer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,9 +8,12 @@ color:
     - '#a5a5a5'
   brandStrength: 0.5
   lightness: 0.23655
-  saturation: 0.5625
   rhythmicContrast: 0.472128
+  saturation: 0.5625
+cta: {}
+layout_spectrum: 0
+name: 'Graeme Taylor Photography '
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.78125
